@@ -1,0 +1,11 @@
+{
+  "name": "twitter_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/clherring/twitter_api.git",
+  "author": "Christie Herring <clherring@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
